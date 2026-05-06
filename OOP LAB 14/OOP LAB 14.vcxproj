@@ -129,11 +129,14 @@
     <ClCompile Include="Task 02 Main.cpp" />
     <ClCompile Include="Task 03 Implimentation.cpp" />
     <ClCompile Include="Task 03 Main.cpp" />
+    <ClCompile Include="Task 04 In=mplimentation.cpp" />
+    <ClCompile Include="Task 04 Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Task 01 Header.h" />
     <ClInclude Include="Task 02 Header.h" />
     <ClInclude Include="Task 03 Header.h" />
+    <ClInclude Include="Task 04 Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
